@@ -12,8 +12,6 @@ The Airbnb Clone Project is a comprehensive full-stack web development initiativ
 * Integrate CI/CD pipelines for seamless deployments
 * Foster collaborative development using GitHub
 
----
-
 ## Team Roles
 
 | Role                                | Responsibilities                                                                                                                             |
@@ -29,8 +27,6 @@ The Airbnb Clone Project is a comprehensive full-stack web development initiativ
 | **DevOps Engineer**                 | Builds CI/CD pipelines, manages cloud infrastructure, configures environments using Docker, and automates deployments.                       |
 | **Security Engineer**               | Ensures best practices in data protection, API security, and performs risk assessments and vulnerability testing.                            |
 
----
-
 ## Technology Stack
 
 | Technology         | Purpose                                                                                                       |
@@ -41,8 +37,6 @@ The Airbnb Clone Project is a comprehensive full-stack web development initiativ
 | **Docker**         | Used for containerizing the application to ensure consistency across development and production environments. |
 | **GitHub Actions** | CI/CD tool for automating testing, building, and deployment processes.                                        |
 | **Markdown**       | Used to write clear and readable documentation in files like `README.md`.                                     |
-
----
 
 ## Database Design
 
@@ -98,8 +92,6 @@ The system is designed around core entities that reflect the business logic of a
 * A **Booking** must be linked to one **Property** and one **User**.
 * A **Payment** is linked to one **Booking**.
 
----
-
 ## Feature Breakdown
 
 1. **User Management**
@@ -132,8 +124,6 @@ The system is designed around core entities that reflect the business logic of a
    * Provides role-based access to manage users, properties, and transactions.
    * Includes analytics and system logs.
 
----
-
 ## API Security
 
 To ensure safe and secure communication and data handling, the following security measures will be implemented:
@@ -153,8 +143,6 @@ To ensure safe and secure communication and data handling, the following securit
 * Secures **financial transactions** and personal payment information.
 * Builds **trust** in the application by mitigating threats.
 
----
-
 ## CI/CD Pipeline
 
 ### What is CI/CD?
@@ -173,3 +161,14 @@ CI/CD stands for Continuous Integration and Continuous Deployment. It automates 
 * Faster and safer code deployments.
 * Early detection of bugs via automated testing.
 * Reliable integration and delivery process for production readiness.
+
+Here’s the updated `README.md` with the **License** and **Author** sections added at the end. You can replace the placeholders with your actual details:
+
+## Author
+
+**Mike Attara**
+
+GitHub: [@mpyatt](https://github.com/mpyatt)
+
+Project built as part of a software engineering program at ALX.
+
