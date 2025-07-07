@@ -162,8 +162,6 @@ CI/CD stands for Continuous Integration and Continuous Deployment. It automates 
 * Early detection of bugs via automated testing.
 * Reliable integration and delivery process for production readiness.
 
-Here’s the updated `README.md` with the **License** and **Author** sections added at the end. You can replace the placeholders with your actual details:
-
 ## Author
 
 **Mike Attara**
